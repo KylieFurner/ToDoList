@@ -20,7 +20,6 @@ I used django, python and html to develop this software. django has many librari
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Real Python](https://realpython.com/django-todo-lists/#step-7-delete-to-do-lists-and-items)
 
